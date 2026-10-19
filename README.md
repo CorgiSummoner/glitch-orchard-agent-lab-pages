@@ -1,2 +1,3 @@
-# glitch-orchard-agent-lab-pages
-Synthetic control pages for the Glitch Orchard page-access check.
+# Glitch Orchard public research fixtures
+
+Synthetic control pages for a direct-URL access check. No real game listings, personal data, collection endpoint, scripts or injection instructions. This repository contains only the publishable fixtures.

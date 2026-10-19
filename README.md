@@ -1,3 +1,3 @@
 # Glitch Orchard public research fixtures
 
-Synthetic control pages for a direct-URL access check. No real game listings, personal data, collection endpoint, scripts or injection instructions. This repository contains only the publishable fixtures.
+Synthetic pages for direct-URL access checks and controlled instruction-following tests. Some pilot pages deliberately contain instructions that conflict with the reader's assigned task. No real game listings, personal data, scripts or message-collection endpoint. This repository contains only publishable research fixtures.
